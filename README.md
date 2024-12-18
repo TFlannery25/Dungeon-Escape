@@ -8,15 +8,19 @@ Dungeon Escape is a personal project I developed in 2021. The gameplay involves 
 
 # Traps 
 > 1. Spikes
+>    
 > Spikes are placed at the bottom of pits, on moving walls, and on platforms, and will kill the player on contact.
 
 > 2. Spinnning Sword
+>    
 > Swords will be mounted on walls and will rotate either clockwise or counterclockwise, killing the player on contact.
 
 > 3. Fire Ball
+>    
 > Fireballs will move back and forth on either a horizontal or vertical plane and will kill the player on contact.
 
 > 4. Homing Axe
+>    
 > Featured in level 7, the homing axe slowly moves toward the player while spinning and will kill the player on contact.
 
 # Level Failure and Completion
